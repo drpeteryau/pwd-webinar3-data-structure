@@ -5,9 +5,12 @@
 import re
 
 #A string that we are going to search from a text contents
+#search = '9.37'
 #search = '9.37.*'
 #search = '.*9.37'
 #search = '.*9.37.*'
+#search = '.*9.67.100'
+#search = '.*9.67.102'
 
 contents = '03/22 08:51:06 TRACE  :...read_physical_netif: Home list entries returned = 7,'\
 '03/22 08:51:06 INFO   :...read_physical_netif: index #0, interface VLINK1 has address 129.1.1.1, ifidx 0,'\
