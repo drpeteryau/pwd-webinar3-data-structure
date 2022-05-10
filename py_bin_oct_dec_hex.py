@@ -10,3 +10,9 @@ print("Decimal (source) value: ", decimal)
 print("converted to Binary ", bin(decimal))
 print("converted to Octal: ", oct(decimal))
 print("converted to Hexadecimal: ", hex(decimal))
+
+#This is the sample outout
+#Decimal (source) value:  172
+#converted to Binary  0b10101100
+#converted to Octal:  0o254
+#converted to Hexadecimal:  0xac
